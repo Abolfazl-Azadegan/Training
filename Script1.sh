@@ -1,3 +1,6 @@
+#!/bin/bash
+# This is Script to explain Passing arguments to scripts
+
 echo "This is The First Parameter: $1"
 echo "This is The Second Parameter: $2"
 echo "This is The Third Parameter: $3"
