@@ -14,6 +14,8 @@
 #
 #
 
+docker --version
 
+which bash
 
 
